@@ -6,6 +6,7 @@ public class test {
 		//sys("Hi")
 		//hello
 		//rrrrrrrr
+		//Through command prompt
 
 	}
 
